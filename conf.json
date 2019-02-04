@@ -1,0 +1,8 @@
+{
+    "train_feat": "/home/kyunster/timit_exp/timit_data/train.mfc",
+    "train_text": "/home/kyunster/timit_exp/timit_data/train.text",
+    "dev_feat": "/home/kyunster/timit_exp/timit_data/dev.mfc",
+    "dev_text": "/home/kyunster/timit_exp/timit_data/dev.text",
+    "test_feat": "/home/kyunster/timit_exp/timit_data/test.mfc",
+    "test_text": "/home/kyunster/timit_exp/timit_data/test.text"
+}
